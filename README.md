@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">HI! My name is Kenny, and I am a developer from New Jersey currently studying Computer Science-Mathematics at Columbia University. My passion lies in solving hard problems that do not have clear solutions, and I am always looking for the next challenge to tackle. With my deep quantitative mind, I plan to utilize technology in unique ways to make a tangible impact in my areas of interest, which include machine learning, finance, education, and artificial intelligence. Feel free to explore my repositories, and please reach out if you want to collaborate!</p>
+<p align="left">HI! My name is Kenny, and I am a developer from New Jersey currently studying Computer Science-Mathematics at Columbia University. My passion lies in solving hard problems that do not have clear solutions, and I am always looking for the next challenge to tackle. After college, I plan to utilize technology in unique ways to make a tangible impact in my areas of interest, which include machine learning, finance, education, and artificial intelligence. Feel free to explore my repositories, and please reach out if you want to collaborate!</p>
 
 ###
 
