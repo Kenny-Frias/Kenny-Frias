@@ -1,4 +1,4 @@
-<h1 align="left">⚡Kenny Frias</h1>
+<h1 align="left">Kenny Frias</h1>
 
 ###
 
